@@ -41,6 +41,7 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
 </p>
 
