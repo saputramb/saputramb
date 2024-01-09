@@ -45,8 +45,6 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="44" height="44"/> 
 </p>
 
-<br />
-
 ---
 ### Connect with me:
 
