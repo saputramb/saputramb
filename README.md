@@ -47,7 +47,7 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="44" height="44"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="44" height="44"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="44" height="44"/> 
-<img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="44" height="44"/> 
 </p>
 
 ---
