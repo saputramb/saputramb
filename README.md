@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Putra - aka Muhammad Bahruddin Saputra 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
@@ -8,8 +8,13 @@
 - 📫 How to reach me: vincentwidyan@gmail.com
 
 ## Education:
+<b>Bachelor’s degree of Computer Science (2018-2023)</b>
+Pamulang University (UNPAM)
+GPA    : 3.47 of 4.00
+Thesis : Information System Design Of Internship Daily Report At PT. Menara Indonesia Using Flutter Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+
+#### 1. [Pamulang University](https://unpam.ac.id) | Bachelor of Computer Science -  Informatics Engineering (`2018 - 2023`)
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
