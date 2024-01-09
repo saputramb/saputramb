@@ -1,11 +1,10 @@
 # Hi there, I'm Putra - aka Muhammad Bahruddin Saputra 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🛫 Experienced in the field of mobile applications and websites
+- 🌱 Familiar with Dart and Javascript programming languages
+- 🎓 I graduated with a Bachelor's degree in Computer Science from Pamulang University
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to contact me: 12saputramb@gmail.com
 
 ## Education:
 ### **Bachelor’s degree of Computer Science (2018-2023)**
