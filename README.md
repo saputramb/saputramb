@@ -29,6 +29,20 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
    - Creating API which will be used and integrated between backend, frontend and mobile apps
    - Developing and maintaining Data Warehouse and Data Mart
    - Creating scheduler and calculation from Data Warehouse to Data Mart
+#### 3. Apps Developer Mentor Assistant of Kampus Merdeka Certified Internship at M-Knows Consulting (Mar ’22 – Dec ‘22 ) – Full-time
+   - Deliver innovative solutions to drive next-generation user experiences, designs and technologies
+   - Collaborate with team apps to build mobile application using flutter framework
+   - Collaborate with team backend to connect applications
+   - Help create new features, maintain codes, and fix issues/errors
+   - Maintain the code quality through code reviews
+   - Help perform testing on applications that are being developed
+   - Analizing system requirement
+   - Develop a conceptual model and specification of functional requirements.
+#### 4. Apps Developer (Kampus Merdeka Certified Internship Batch 1) at M-Knows Consulting (Mar ’22 – Dec ‘22 ) – Full-time
+   - Deliver innovative solutions to drive next-generation user experiences, designs and technologies
+   - Collaborate with team apps to build mobile application using flutter framework
+   - Collaborate with team backend to connect applications
+   - Help create new features, maintain codes, and fix issues/errors
 ---
 
 ### Languages and Tools:
