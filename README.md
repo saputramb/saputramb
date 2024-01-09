@@ -8,16 +8,15 @@
 - 📫 How to reach me: vincentwidyan@gmail.com
 
 ## Education:
-     12     12        12            12
-    123     123       123          123
+          GPA     :        12            12
+     Thesis     123       123          123
       1     1          1             1
 
-Table:  Contoh tabel sederhana.
 ### **Bachelor’s degree of Computer Science (2018-2023)**
 Pamulang University (UNPAM)\
-GPA    : 3.47 of 4.00\
-Thesis : Information System Design Of Internship Daily Report At PT. Menara Indonesia Using Flutter\
-         Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
+GPA        : 3.47 of 4.00\
+Thesis     : Information System Design Of Internship Daily Report At PT. Menara Indonesia Using Flutter\
+             Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
 
 
 #### 1. [Pamulang University](https://unpam.ac.id) | Bachelor of Computer Science -  Informatics Engineering (`2018 - 2023`)
