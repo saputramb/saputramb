@@ -34,15 +34,15 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="44" height="44"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="44" height="44"/> 
 </p>
 
 <br />
