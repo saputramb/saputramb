@@ -8,6 +8,13 @@
 - 📫 How to reach me: vincentwidyan@gmail.com
 
 ## Education:
+  Kanan     Kiri     Tengah     Default
+-------     ------ ----------   -------
+     12     12        12            12
+    123     123       123          123
+      1     1          1             1
+
+Table:  Contoh tabel sederhana.
 ### **Bachelor’s degree of Computer Science (2018-2023)**
 Pamulang University (UNPAM)\
 GPA    : 3.47 of 4.00\
