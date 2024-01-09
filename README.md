@@ -14,7 +14,7 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 &emsp;&emsp;&emsp;&emsp;&nbsp;Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### 1. Fullstack and Mobile Developer at Ametis Institute (Maret ’23 - Present) – Full-time
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
