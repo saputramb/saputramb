@@ -10,7 +10,7 @@
 ## Education:
 ### **Bachelor’s degree of Computer Science (2018-2023)**
 Pamulang University (UNPAM)\
-GPA    : 3.47 of 4.00_\
+GPA    : 3.47 of 4.00\
 Thesis : Information System Design Of Internship Daily Report At PT. Menara Indonesia Using Flutter Framework And Android-Based Agile Method (Case Study: Kampus Gratis)\
 
 
