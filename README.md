@@ -22,10 +22,13 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
    - Developing and maintaining Data Warehouse and Data Mart
    - Creating scheduler and calculation from Data Warehouse to Data Mart
    - Scraping data oil price and lifting cost
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 2. Fullstack and Mobile Developer at PT. Wirasena Anagata Yanka (Jan ‘23 – Mar ‘23) – Full-time
+   - Creating new features, functionality, and capabilities on the oil and gas company’s website for monitoring operation and production using ReactJS
+   - Creating new features, functionality, and capabilities on the oil and gas company’s mobile applications for operation and production aspect using Flutter
+   - Recommending solutions for a streamlined and user-friendly interface design
+   - Creating API which will be used and integrated between backend, frontend and mobile apps
+   - Developing and maintaining Data Warehouse and Data Mart
+   - Creating scheduler and calculation from Data Warehouse to Data Mart
 ---
 
 ### Languages and Tools:
