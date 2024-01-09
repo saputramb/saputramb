@@ -12,7 +12,7 @@
 > Pamulang University (UNPAM)\
 GPA&emsp;&emsp;: 3.47 of 4.00\
 Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara Indonesia Using Flutter\
-&emsp;&emsp;&emsp;&emsp;Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
+&emsp;&emsp;&emsp;&emsp;&nbsp;Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
 
 
 #### 1. [Pamulang University](https://unpam.ac.id) | Bachelor of Computer Science -  Informatics Engineering (`2018 - 2023`)
