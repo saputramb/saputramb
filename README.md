@@ -15,9 +15,13 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 
 ## Work Experience:
 #### 1. Fullstack and Mobile Developer at Ametis Institute (Maret ’23 - Present) – Full-time
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Creating new features, functionality, and capabilities on the oil and gas company’s website for monitoring operation and production using ReactJS
+   - Creating new features, functionality, and capabilities on the oil and gas company’s mobile applications for operation and production aspect using Flutter
+   - Recommending solutions for a streamlined and user-friendly interface design
+   - Creating API which will be used and integrated between backend, frontend and mobile apps
+   - Developing and maintaining Data Warehouse and Data Mart
+   - Creating scheduler and calculation from Data Warehouse to Data Mart
+   - Scraping data oil price and lifting cost
 #### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
