@@ -46,7 +46,6 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 </p>
 
 <br />
-<br />
 
 ---
 ### Connect with me:
