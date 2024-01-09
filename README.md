@@ -14,7 +14,7 @@ Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara
 &emsp;&emsp;&emsp;&emsp;&nbsp;Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
 
 ## Work Experience:
-#### 1. Fullstack and Mobile Developer at Ametis Institute (Maret ’23 - Present) – Full-time
+#### 1. Fullstack and Mobile Developer at Ametis Institute (Mar ’23 - Present) – Full-time
    - Creating new features, functionality, and capabilities on the oil and gas company’s website for monitoring operation and production using ReactJS
    - Creating new features, functionality, and capabilities on the oil and gas company’s mobile applications for operation and production aspect using Flutter
    - Recommending solutions for a streamlined and user-friendly interface design
