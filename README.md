@@ -14,14 +14,6 @@ GPA&emsp;&emsp;: 3.47 of 4.00\
 Thesis&emsp;: Information System Design Of Internship Daily Report At PT. Menara Indonesia Using Flutter\
 &emsp;&emsp;&emsp;&emsp;&nbsp;Framework And Android-Based Agile Method (Case Study: Kampus Gratis)
 
-
-#### 1. [Pamulang University](https://unpam.ac.id) | Bachelor of Computer Science -  Informatics Engineering (`2018 - 2023`)
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
-
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
